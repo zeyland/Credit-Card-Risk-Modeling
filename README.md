@@ -4,9 +4,9 @@
 #############################################################
 
 # Konu:
-# Kredi skor kartları, finans sektöründe yaygın olarak kullanılan bir risk kontrol yöntemidir. Gelecekteki temerrüt ve kredi kartı borçlarının olasılığını tahmin etmek için kredi kartı başvuru sahipleri tarafından sunulan kişisel bilgileri ve verileri kullanır. Banka, başvuru sahibine kredi kartı verilip verilmeyeceğine karar verebilir. Kredi puanları, riskin büyüklüğünü objektif olarak ölçebilir.
+Kredi skor kartları, finans sektöründe yaygın olarak kullanılan bir risk kontrol yöntemidir. Gelecekteki temerrüt ve kredi kartı borçlarının olasılığını tahmin etmek için kredi kartı başvuru sahipleri tarafından sunulan kişisel bilgileri ve verileri kullanır. Banka, başvuru sahibine kredi kartı verilip verilmeyeceğine karar verebilir. Kredi puanları, riskin büyüklüğünü objektif olarak ölçebilir.
 
-# Genel olarak konuşursak, kredi puan kartları geçmiş verilere dayanır. Bir zamanlar büyük ekonomik dalgalanmalarla karşılaşıldığında. Geçmiş modeller orijinal tahmin gücünü kaybedebilir. Lojistik model, kredi puanlaması için yaygın olarak kullanılan bir yöntemdir. Çünkü Lojistik ikili sınıflandırma görevleri için uygundur ve her özelliğin katsayılarını hesaplayabilir.
+Genel olarak konuşursak, kredi puan kartları geçmiş verilere dayanır. Bir zamanlar büyük ekonomik dalgalanmalarla karşılaşıldığında. Geçmiş modeller orijinal tahmin gücünü kaybedebilir. Lojistik model, kredi puanlaması için yaygın olarak kullanılan bir yöntemdir. Çünkü Lojistik ikili sınıflandırma görevleri için uygundur ve her özelliğin katsayılarını hesaplayabilir.
 
 Şu anda, makine öğrenmesi algoritmalarının geliştirilmesiyle; Boosting, Random Forests ve Support Vector Machines gibi daha tahmine dayalı yöntemler,kredi kartı puanlamasına dahil edilmiştir. Bununla birlikte, bu yöntemler genellikle iyi bi r şeffaflığa sahip değildir. Müşterilere ve düzenleyicilere ret veya kabul için bir neden sağlamak zor olabilir.
 
